@@ -10,7 +10,8 @@ print(n ** 2)
 1. По двум заданным числам проверять является ли первое квадратом второго
 
 ```Python
-n1 = int(input()), n2 = int(input())
+n1 = int(input())
+n2 = int(input())
 if n1 == n2 ** 2:
     print("YES")
 else:
