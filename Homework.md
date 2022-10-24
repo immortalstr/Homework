@@ -51,6 +51,15 @@ if n == 7:
  ```
 
  4. Найти максимальное из трех чисел
+```Python
+n1, n2, n3 = int(input()), int(input()), int(input())
+max = n1
+if n2 > max:
+    max = n2
+if n3 > max:
+    max = n3
+print(max)
+```
 
  5. Написать программу вычисления значения функции y = f(a)
 
