@@ -61,6 +61,13 @@ if n3 > max:
 print(max)
 ```
 
+asdadsasdasd
+asdasdasdasd
+asdasdasdasd
+
+
+
+
  5. Написать программу вычисления значения функции y = f(a)
 
  6. Выяснить является ли число чётным
